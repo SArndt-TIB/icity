@@ -589,7 +589,7 @@ In the 2017 version of OWL-Time that class is deprecated, but this individual pr
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
         <IRI>/January</IRI>
-        <Literal xml:lang="zh">1月</Literal>
+        <Literal xml:lang="zh">1月</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
@@ -644,7 +644,7 @@ In the 2017 version of OWL-Time that class is deprecated, but this individual pr
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
         <IRI>/July</IRI>
-        <Literal xml:lang="ru">Июль</Literal>
+        <Literal xml:lang="ru">Июль</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
@@ -709,7 +709,7 @@ In the 2017 version of OWL-Time that class is deprecated, but this individual pr
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
         <IRI>/June</IRI>
-        <Literal xml:lang="ru">Июнь</Literal>
+        <Literal xml:lang="ru">Июнь</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
