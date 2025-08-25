@@ -32,7 +32,7 @@
         <owl:imports rdf:resource="http://ontology.eil.utoronto.ca/5087/1/Change.owl"/>
         <owl:imports rdf:resource="http://ontology.eil.utoronto.ca/5087/1/CityUnits.owl"/>
         <owl:imports rdf:resource="http://ontology.eil.utoronto.ca/5087/1/geosparql.owl"/>
-        <owl:imports rdf:resource="http://ontology.eil.utoronto.ca/5087/1/gregorian.owl"/>
+        <owl:imports rdf:resource="https://raw.githubusercontent.com/SArndt-TIB/icity/refs/heads/master/5087/gregorian.owl"/>
         <owl:imports rdf:resource="http://ontology.eil.utoronto.ca/5087/1/Mereology.owl"/>
         <owl:imports rdf:resource="http://ontology.eil.utoronto.ca/5087/1/OrganizationStructure.owl"/>
 		<owl:imports rdf:resource="http://ontology.eil.utoronto.ca/5087/1/Prov.owl"/>
