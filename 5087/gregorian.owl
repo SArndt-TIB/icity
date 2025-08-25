@@ -579,17 +579,17 @@ In the 2017 version of OWL-Time that class is deprecated, but this individual pr
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
         <IRI>/January</IRI>
-        <Literal xml:lang="ru">/=20@L</Literal>
+        <Literal xml:lang="ru">Январь</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
         <IRI>/January</IRI>
-        <Literal xml:lang="ja">1</Literal>
+        <Literal xml:lang="ja">1月</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
         <IRI>/January</IRI>
-        <Literal xml:lang="zh">1</Literal>
+        <Literal xml:lang="zh">1月</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
@@ -644,17 +644,17 @@ In the 2017 version of OWL-Time that class is deprecated, but this individual pr
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
         <IRI>/July</IRI>
-        <Literal xml:lang="ru">N;L</Literal>
+        <Literal xml:lang="ru">Июль</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
         <IRI>/July</IRI>
-        <Literal xml:lang="ja">7</Literal>
+        <Literal xml:lang="ja">7月</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
         <IRI>/July</IRI>
-        <Literal xml:lang="zh">7</Literal>
+        <Literal xml:lang="zh">7月</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
@@ -709,17 +709,17 @@ In the 2017 version of OWL-Time that class is deprecated, but this individual pr
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
         <IRI>/June</IRI>
-        <Literal xml:lang="ru">N=L</Literal>
+        <Literal xml:lang="ru">Июнь</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
         <IRI>/June</IRI>
-        <Literal xml:lang="ja">6</Literal>
+        <Literal xml:lang="ja">6月</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
         <IRI>/June</IRI>
-        <Literal xml:lang="zh">6</Literal>
+        <Literal xml:lang="zh">6月</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
